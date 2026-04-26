@@ -1,18 +1,9 @@
 <html>
 
 <body>
-  <h1>VIBE (center)</h1>
+  <title>VIBE</title>
 </body>
 <head>
-<style>
-h1 {
-text-align: center;
-}
-</style>
-
+  <p1>Vibe is a new social media that wants to connect people and make friendships.</p1>
 </head>
-
-
-  
 </html>
-Vibe is a new social media that wants to connect people and make friendships.
