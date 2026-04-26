@@ -1,13 +1,7 @@
 <html>
 
 <body>
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
-}
+  <p>VIBE is a social media app that wants to connect people and make friendships</p>
 </body>
 <head>
 <h1>VIBE</h1>
