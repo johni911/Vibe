@@ -1,9 +1,9 @@
 <html>
 
 <body>
-  <title>VIBE</title>
+  <h1>VIBE</h1>
 </body>
 <head>
-  <p1>Vibe is a new social media that wants to connect people and make friendships.</p1>
+  <p>Vibe is a new social media that wants to connect people and make friendships.</p>
 </head>
 </html>
