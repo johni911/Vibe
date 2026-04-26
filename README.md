@@ -1,6 +1,9 @@
 <html>
+  <style>
+    h1 {
+  text-align: center;
+}</style>
 <body>
-  
 </body>
 <head>
 <h1>VIBE</h1>
