@@ -1,13 +1,14 @@
 <html>
-  <style>
-    h1 {
-  text-align: center;
-}</style>
+
 <body>
+  <h1>VIBE (center)</h1>
 </body>
 <head>
-<h1>VIBE</h1>
-
+<style>
+h1 {
+text-align: center;
+}
+</style>
 
 </head>
 
