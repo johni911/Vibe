@@ -4,6 +4,12 @@
 <h1>VIBE</h1>
 </body>
 <head>
-  <p>Vibe is a new social media that wants to connect people and make friendships.</p>
+  body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
 </head>
 </html>
